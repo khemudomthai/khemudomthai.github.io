@@ -14,9 +14,9 @@ export function LandingPage() {
             <div className='font-normal text-7xl text-white'>Simply<br/> Great Thai Food</div>
             <div className='font-extrabold text-4xl text-white'>Enjoy Thai food like Thai locals do</div>
             <div className='gap-2 items-start'>
-              <a href="http://www.udomthai.co/menu" className=' bg-orange-600 text-white font-bold rounded-full px-4 
+              <a href="https://udom-thai-co.hipierce.com" className=' bg-orange-600 text-white font-bold rounded-full px-4 
               py-2 mr-2 mb-2 hover:bg-orange-700'>View Menu</a>
-              <a href="http://www.udomthai.co/menu" className=' bg-orange-600 text-white font-bold rounded-full px-4 
+              <a href="https://udom-thai-co.hipierce.com" className=' bg-orange-600 text-white font-bold rounded-full px-4 
               py-2 mr-2 mb-2 hover:bg-orange-700'>Order Pickup or Delivery</a>
               <a href="https://www.ubereats.com/store/udom-thai-centennial/h2F_ak5YUkK0Q3VjDWlKfQ?diningMode=DELIVERY" className='bg-orange-600 text-white font-bold rounded-full px-4 py-2 mr-2 mb-2 hover:bg-orange-700' target='_blank'>Order Uber Eats</a>
             </div>
